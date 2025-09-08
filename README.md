@@ -30,15 +30,15 @@ Set the requeriments:  <br/>
 <img src="https://i.imgur.com/2wIF9au.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-After creating the VM, its access ports were configured. For obvious reasons, I will not show a screenshot of this here. So we continued with the installation of the OS on the VM.: <br/>
+After creating the VM, its access ports were configured. For obvious reasons, I will not show a screenshot of this here. So we continued with the installation of the OS on the VM: <br/>
 <img src="https://i.imgur.com/Wj9wWhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-After that, it is necessary to configure the machine. Again, I will not explain this here for reasons of confidentiality. After the OS is installed and configured, the same process is repeated from scratch, after, all will looks like this.: <br/>
+After that, it is necessary to configure the machine. Again, I will not explain this here for reasons of confidentiality. After the OS is installed and configured, the same process is repeated from scratch, after, all will looks like this: <br/>
 <img src="https://i.imgur.com/b56visW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Well, after that, there are several lines of code to set the IP address on each machine and let them communicate. If everything is correct, when you type the IP address that was set on the VMs into a browser, the following page should appear. If nothing loads, there is an error in your project.: <br/>
+Well, after that, there are several lines of code to set the IP address on each machine and let them communicate. If everything is correct, when you type the IP address that was set on the VMs into a browser, the following page should appear. If nothing loads, there is an error in your project: <br/>
 <img src="https://i.imgur.com/LJuKZrA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
